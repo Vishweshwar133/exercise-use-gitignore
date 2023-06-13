@@ -4,4 +4,4 @@ z*
 # Ignore all files ending in ".env"
 *.env
 #Ignores a top-level directory named artifacts.
-/artifacts
+/artifacts/
